@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+#app{
+    background-color: beige;
+
+}
+
+#game{
+    background-color: skyblue;
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+a {
+    color: black;
+    font-size: 35px;
+    text-decoration: none;
+}
